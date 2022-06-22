@@ -1,4 +1,10 @@
-### Hi there 👋
+#### Hi there 👋, I'm Daniel Liao
+
+- 🌱 I’m currently learning React
+- 💬 Ask me about: Go, JavaScript, and Java
+- 😄 Pronouns: He/him
+
+[![Daniel Liao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dojo456)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Dojo456/Dojo456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
