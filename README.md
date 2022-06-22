@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning React
 - 💬 Ask me about: Go, JavaScript, and Java
+- 🔭 I’m currently working on an SQL Database written from scratch in Go
 - 😄 Pronouns: He/him
 
 [![Daniel Liao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dojo456)](https://github.com/anuraghazra/github-readme-stats)
