@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Daniel Liao
+## Hi there 👋, I'm Daniel Liao
 
 - 🌱 I’m currently learning React
 - 💬 Ask me about: Go, JavaScript, and Java
