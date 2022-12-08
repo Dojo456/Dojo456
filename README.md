@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Daniel Liao
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning PyGame
 - 💬 Ask me about: Go, JavaScript, and Java
-- 🔭 I’m currently working on an SQL Database written from scratch in Go
+- 🔭 I’m currently working on a recreation of the game Stardew Valley 🌽
 - 😄 Pronouns: He/him
 
 [![Daniel Liao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dojo456&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
