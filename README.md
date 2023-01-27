@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning PyGame
 - 💬 Ask me about: Go, JavaScript, and Java
-- 🔭 I’m currently working on a recreation of the game Stardew Valley 🌽
+- 🔭 I’m currently working on a custom SQL database written in Go
 - 😄 Pronouns: He/him
 
 [![Daniel Liao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dojo456&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
