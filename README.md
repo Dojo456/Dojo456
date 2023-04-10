@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Daniel Liao
 
-- 🌱 I’m currently learning PyGame
-- 💬 Ask me about: Go, JavaScript, and Java
+- 🌱 I’m currently learning MongoDB
+- 💬 Ask me about: Go, JavaScript, and Python
 - 🔭 I’m currently working on a custom SQL database written in Go
 - 😄 Pronouns: He/him
 
